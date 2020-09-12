@@ -1,0 +1,23 @@
+body {background-color:lightskyblue;}
+ul {font-size:30pt}
+
+.box {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.pic_bottom {
+    position: absolute;
+    float: right;
+    bottom: 50px;
+    text-align: center;
+    font-size: 35px;
+    color: white;
+    font-family: Impact, serif;
+    text-shadow: 2px 2px #000000;
+}
+
+a:hover {
+    color: red;
+}
